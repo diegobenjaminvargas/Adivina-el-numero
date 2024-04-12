@@ -38,7 +38,7 @@ La opción estadística nos mostrara los datos almacenados en Excel.
 ## Herramientas utilizadas
 - Jupyter Notebook, a través de [Anaconda](https://www.anaconda.com/anaconda-navigator)
 
-## Aprendizajes
+## Aprendizajes de la práctica
 ### Módulo Getpass
 En la práctica también se valoraba implementar mejoras al juego como ocultar el número a adivinar en el modo 2 jugadores, de modo que el segundo jugador no viera el número tecleado por el primer jugador. Para ello, tuve que investigar y encontré que podía utilizar el módulo getpass y, así, ocultar el número. Lo pude utilizar tecleando la siguiente línea de código en la función "partida_2_jugadores":
 ```python
